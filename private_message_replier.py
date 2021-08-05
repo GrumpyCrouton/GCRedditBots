@@ -2,7 +2,7 @@
 	Reddit Private Message Replier Bot
 	Author: GrumpyCrouton
 	Github: https://github.com/GrumpyCrouton/GCRedditBots
-  Version: 1.0
+	Version: 1.0
 	
 	Instructions:
 	
